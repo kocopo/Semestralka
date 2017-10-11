@@ -1,0 +1,8 @@
+level1
+map
+1 0 45 12
+ins
+45 3 45 9
+outs
+1 6
+level2

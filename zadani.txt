@@ -1,0 +1,11 @@
+Naprogramujte jendoduchou grafickou tower ATTACK hru
+
+Váš engine:
+
+    1.ze souboru nahraje definici ÚTOČNÍKŮ (jméno, životy rychlost, útok, dosah, ...)
+    2.ze souboru nahraje možné mapy a typy obranných věží (životy, rychlost, odolnnost na určitý typ věže ,...)
+    3.implementuje jednoduchou interakci věž vs. útočníci (útok, proběhnutí, ...), počitadlo skore, detekci vítěztví (po nezabití x útočníků)
+    4.implementuje jednoduchou AI řídící rozisťování věží
+    5.umožňuje ukládat a načítat rozehrané hry
+
+Engine může fungovat real-time hra, či tahová hra.

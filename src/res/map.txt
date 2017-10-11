@@ -1,0 +1,23 @@
+/these are comments
+level1
+map
+1 0 45 12
+ins
+45 3 45 9
+outs
+1 6
+level2
+map
+1 0 50 14
+ins
+50 4 50 10
+outs
+1 7
+level3
+map
+1 0 45 10
+ins
+45 1 45 9
+outs
+1 5
+level4
